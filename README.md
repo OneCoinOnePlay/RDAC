@@ -13,7 +13,7 @@ Now, RDAC for these two samplers has been fully reverse-engineered: reading and 
 | BOSS SP-303 Dr. Sample (2001) | SmartMedia | STANDARD, LONG, LO-FI |
 | Roland SP-555 (2008) | CompactFlash | STANDARD, LO-FI |
 
-*Difficultly reading the *BOSS SP-202* 5V SmartMedia cards means that one's going to have to wait to be cracked. I had limited success using a Fujifilm SM-R1.*
+*Difficultly reading the *Boss Dr. Sample SP-202's (1998)* 5V SmartMedia cards means that one's going to have to wait to be cracked. I had limited success using a Fujifilm SM-R1.*
 
 ## What RDAC actually is
 
