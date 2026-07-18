@@ -4,7 +4,7 @@ The BOSS Dr. Sample SP-303 and the Roland SP-555, two legendary portable hardwar
 
 Which means that for decades, everything on those cards — your samples, your sets, whole eras of beat-making — could only be read by the samplers themselves, or, for the SP-555, by that one aging utility.
 
-Now, RDAC for these two samplers has been fully reverse-engineered: reading **and** writing, in every quality mode.
+Now, RDAC for these two samplers has been fully reverse-engineered: reading and writing, in every quality mode.
 
 ## The machines
 
@@ -13,7 +13,7 @@ Now, RDAC for these two samplers has been fully reverse-engineered: reading **an
 | BOSS SP-303 Dr. Sample (2001) | SmartMedia | STANDARD, LONG, LO-FI |
 | Roland SP-555 (2008) | CompactFlash | STANDARD, LO-FI |
 
-*Text Difficultly reading the BOSS SP-202 5V SmartMedia cards means that one's going to have to wait to be cracked.*
+*Difficultly reading the *BOSS SP-202* 5V SmartMedia cards means that one's going to have to wait to be cracked. I had limited success using a Fujifilm SM-R1.*
 
 ## What RDAC actually is
 
@@ -39,6 +39,6 @@ And you don't need the sampler anymore — or even the card. If all that survive
 
 ---
 
-*Text © 2026 One Coin One Play, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and adapt freely with credit.*
+© 2026 One Coin One Play, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and adapt freely with credit.
 
 [^1]: RDAC stands for **Roland Digital Audio Coding**, and the SP samplers weren't its only home. Roland built RDAC lossy compression into its VS-series digital multitrack recorders (VS-880, VSR-880) and AR-series solid-state audio recorders (AR-3000R, AR-200S), where selectable RDAC modes and grades traded sound quality against recording time — a prized trick in the days of small, expensive SCSI drives and early memory cards. See [Roland's AR-series overview](https://proav.roland.com/global/articles/ar_series_overview/ar_series_recording_modes_times/). This page documents the variant the SP-303 and SP-555 write to their memory cards.
