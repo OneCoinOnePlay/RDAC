@@ -1,6 +1,6 @@
 # RDAC Roland's proprietary sample format inside the BOSS SP-303 and Roland SP-555 Samplers
 
-The BOSS SP-303 Dr. Sample, released in 2001, and it's bigger brother the Roland SP-555 from 2004, two legendary portable hardware samplers, store their samples internally and on memory cards in **RDAC**[^1], Roland's own proprietary audio compression format. Roland never documented it. For the SP-303 there was never any computer software for it at all: the only way audio ever got onto a card was through the machine itself. The SP-555 had the SP-555 WAV Converter, long since abandoned.
+The BOSS Dr. Sample SP-303 and the Roland SP-555, two legendary portable hardware samplers, store their samples internally and on memory cards in **RDAC**[^1], Roland's own proprietary audio compression format. Roland never documented it. For the SP-303 there was never any computer software for it at all: the only way audio ever got onto a card was through the machine itself. The SP-555 had the SP-555 WAV Converter, long since abandoned.
 
 Which means that for decades, everything on those cards — your samples, your sets, whole eras of beat-making — could only be read by the samplers themselves, or, for the SP-555, by that one aging utility.
 
@@ -12,6 +12,8 @@ Now, RDAC for these two samplers has been fully reverse-engineered: reading **an
 |---|---|---|
 | BOSS SP-303 Dr. Sample (2001) | SmartMedia | STANDARD, LONG, LO-FI |
 | Roland SP-555 (2008) | CompactFlash | STANDARD, LO-FI |
+
+*Text Difficultly reading the BOSS SP-202 5V SmartMedia cards means that one's going to have to wait to be cracked.*
 
 ## What RDAC actually is
 
