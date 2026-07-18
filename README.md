@@ -33,7 +33,7 @@ This work was done independently, for interoperability — so people can keep us
 
 ## So how do I get at my samples?
 
-With **[Dr. Sidekick](https://github.com/OneCoinOnePlay/dr-sidekick)** — a library manager for the SP-303 and SP-555 that reads and writes cards directly. Pull your old samples off a card as WAVs, or build a fresh card from WAVs on your computer, no vintage Windows software and no pad-by-pad resampling required.
+With **[Dr. Sidekick](https://github.com/OneCoinOnePlay/Dr.Sidekick)** — a library manager for the SP-303 and SP-555 that reads and writes cards directly. Pull your old samples off a card as WAVs, or build a fresh card from WAVs on your computer, no vintage Windows software and no pad-by-pad resampling required.
 
 And you don't need the sampler anymore — or even the card. If all that survives is a folder of card files copied onto a hard drive years ago, Dr. Sidekick can open those too and give you your audio back.
 
